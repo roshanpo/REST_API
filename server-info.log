@@ -5,3 +5,4 @@
 [32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {} | Query Params:  {} | {"timestamp":"2023-11-10T07:53:15.141Z"}
 [32minfo[39m: Request Initiated : GET /api/users/7aad5a49-4c07-4964-8dba-d30f624d4686 | Request Body : {} | Query Params:  {} | {"timestamp":"2023-11-10T07:53:15.212Z"}
 [32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-10T08:46:23.614Z"}
+[32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-10T09:24:45.789Z"}
