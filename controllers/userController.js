@@ -1,4 +1,4 @@
-const pool = require("../db/quries")
+const pool = require("../db/DBConfig")
 userController = {};
 const bcrypt = require('bcrypt')
 const userValidator = require("./userValidator")
@@ -12,7 +12,9 @@ userController.getUsers = async (req, res) =>{
         res.send("No Users Found")
     }
     //logger.info('This is an info message.');
-    res.send(allUsers.rows);
+    else{
+        res.send(allUsers.rows);
+    }
     //logger.
 }
 

@@ -1,4 +1,4 @@
-const pool = require("../db/quries")
+const pool = require("../db/DBConfig")
 
 const basicAuth = async (req,res,next) =>{
     const authHeader = req.headers.authorization;

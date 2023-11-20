@@ -6,3 +6,14 @@
 [32minfo[39m: Request Initiated : GET /api/users/7aad5a49-4c07-4964-8dba-d30f624d4686 | Request Body : {} | Query Params:  {} | {"timestamp":"2023-11-10T07:53:15.212Z"}
 [32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-10T08:46:23.614Z"}
 [32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-10T09:24:45.789Z"}
+[32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-20T07:06:48.676Z"}
+[32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-20T07:07:21.844Z"}
+[32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-20T07:08:57.924Z"}
+[32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-20T07:09:59.110Z"}
+[32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-20T07:10:34.424Z"}
+[32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-20T07:13:38.631Z"}
+[32minfo[39m: Request Initiated : GET /api/users/ | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com"} | Query Params:  {} | {"timestamp":"2023-11-20T07:14:34.823Z"}
+[32minfo[39m: Request Initiated : POST /api/users/new | Request Body : {"username":"Johndoee","email":"johndoe@gmail.com","password":"password"} | Query Params:  {} | {"timestamp":"2023-11-20T07:16:50.239Z"}
+[32minfo[39m: Request Initiated : POST /api/users/new | Request Body : {"username":"Roshan","email":"roshan@gmail.com","password":"password"} | Query Params:  {} | {"timestamp":"2023-11-20T07:18:39.942Z"}
+[32minfo[39m: Request Initiated : POST /api/users/new | Request Body : {"username":"Rahul","email":"rahul@gmail.com","password":"password"} | Query Params:  {} | {"timestamp":"2023-11-20T07:18:57.001Z"}
+[32minfo[39m: Request Initiated : GET /api/users | Request Body : {"username":"Rahul","email":"rahul@gmail.com","password":"password"} | Query Params:  {} | {"timestamp":"2023-11-20T07:19:16.943Z"}

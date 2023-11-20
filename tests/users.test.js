@@ -1,5 +1,5 @@
 const request = require("supertest");
-const pool = require('../db/quries');
+const pool = require('../db/DBConfig');
 const app = require('../app');
 
 describe('/api/users/', ()=>{
